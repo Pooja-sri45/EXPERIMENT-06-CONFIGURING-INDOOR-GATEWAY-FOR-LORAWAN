@@ -94,5 +94,5 @@ The frequency band is allocated now. Now we need to get the Gateway ID. To get t
 
 
 ## Results: 
-
+The Indoor Gateway for LoRaWAN is successfully created.
 
